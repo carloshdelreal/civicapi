@@ -1,0 +1,3 @@
+civicapi/__*
+db.sqlite3
+votes/__*
